@@ -1,0 +1,25 @@
+{
+  "hash": "c5f3886f",
+  "configHash": "5ac662b4",
+  "lockfileHash": "3c175850",
+  "browserHash": "2243f5e1",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "661d1511",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "93273506",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ODPORMEJ": {
+      "file": "chunk-ODPORMEJ.js"
+    }
+  }
+}
